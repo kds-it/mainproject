@@ -13,7 +13,7 @@ import java.util.List;
  * Created by kds on 2020/9/7.
  */
 @RestController
-//controlle///////////////////////nnna1111
+//controlle///////////////////////nnna11111111
 public class EmpController {
     //private static final String REST_URL_PREFIX="http://localhost:8001";
     //eureka服务中心去找相应的开启的提供者
